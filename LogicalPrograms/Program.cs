@@ -19,6 +19,10 @@ namespace LogicalPrograms
             Console.WriteLine("\nProblem 3: Prime Number");
             PrimeNumber.TakeInput();
             PrimeNumber.DisplayResult();
+
+            Console.WriteLine("\nProblem 4: Reverse Number");
+            ReverseNumber.TakeInput();
+            ReverseNumber.DisplayResult();
         }
     }
 }
