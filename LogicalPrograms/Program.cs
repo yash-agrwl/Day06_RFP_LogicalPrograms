@@ -11,6 +11,10 @@ namespace LogicalPrograms
             Console.WriteLine("Problem 1: Fibonacci Series");
             FibonacciSeries.TakeInput();
             FibonacciSeries.DisplayResult();
+
+            Console.WriteLine("\nProblem 2: Perfect Number");
+            PerfectNumber.TakeInput();
+            PerfectNumber.DisplayResult();
         }
     }
 }
